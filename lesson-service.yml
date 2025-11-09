@@ -1,0 +1,7 @@
+app:
+  version: "1.0.2"
+  name: "Lesson Service"
+  message: "Lesson service ready to teach"
+  contact:
+    owner: "Teachers"
+    email: "lesson-support@keskink.com"

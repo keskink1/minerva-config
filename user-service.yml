@@ -1,0 +1,7 @@
+app:
+  version: "1.0.2"
+  name: "User Service"
+  message: "User service running smoothly"
+  contact:
+    owner: "Kaan Keskin"
+    email: "user-support@keskink.com"
